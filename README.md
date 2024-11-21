@@ -20,6 +20,9 @@
 
 https://github.com/user-attachments/assets/ed9e9aaa-57a3-486f-811a-d700c845bbe9
 
+<video width="320" height="240" controls>
+    <source src="https://directionaivideo.oss-cn-beijing.aliyuncs.com/%E3%80%8A%E5%A4%A7%E6%A8%A1%E5%9E%8B%EF%BC%9A%E7%AE%97%E6%B3%95%E4%B8%8E%E5%AE%9E%E8%B7%B5%E3%80%8B/DirectionAI.mp4" type="video/mp4">
+</video>
 
 # News
 🔥 Upcomings：提供AI教育的SaaS服务接口
