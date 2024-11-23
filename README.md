@@ -41,7 +41,7 @@ DirectionAI集成了一系列**DIRECT团队**的算法成果，实现了大模�
 | 🌟 **SRA-MCTS** | 📖 [Github](https://github.com/DIRECT-BIT/SRA-MCTS) | 📄 [Paper](https://arxiv.org/abs/2411.11053)|
 | 🌟 **Reviving Dormant Memories** | 📖 [Github](https://github.com/DIRECT-BIT/Reviving-Dormant-Memories) | 📄 [Paper](https://arxiv.org/abs/2411.11932)|
 | 🌟 **METEOR** | 📖 [Github](https://github.com/DIRECT-BIT/METEOR) | 📄 [Paper](https://arxiv.org/abs/2411.11933)|
-| 🌟 **PSPO\*** | 📖 [Github](https://github.com/DIRECT-BIT/PSPO) | 📄 [Paper](https://arxiv.org/abs/2411.11933)|
+| 🌟 **PSPO\*** | 📖 [Github](https://github.com/DIRECT-BIT/PSPO) | 📄 [Paper](https://arxiv.org/abs/2411.11681)|
 | 🌟 **PSST** | 📖 [Github](https://github.com/DIRECT-BIT/PSST) | 📄 [Paper](https://aclanthology.org/2024.findings-emnlp.495.pdf)|
 | 🌟 **TemplateGEC** | 📖 [Github](https://github.com/li-aolong/TemplateGEC) | 📄 [Paper](https://aclanthology.org/2023.acl-long.380/)|
 | 🌟 **Word Matters** | 📖 [Github](https://github.com/li-aolong/Word-Matters) | 📄 [Paper](https://arxiv.org/abs/2406.14828)|
