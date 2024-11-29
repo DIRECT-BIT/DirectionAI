@@ -66,5 +66,5 @@ The DirectionAI platform integrates a series of algorithmic achievements from th
 # FAQ
 ❓ [Engineering problem Q&A](https://github.com/DIRECT-BIT/DirectionAI/issues/new?assignees=&labels=&projects=&template=bug_report.md&title=)
 
-❓ [Algorithm problem Q&A]()
+❓ [Algorithm problem Q&A](https://github.com/DIRECT-BIT/DirectionAI/issues/new?assignees=&labels=question&projects=&template=question_about_paper.md&title=%5BPaper+Question%5D%3A+Briefly+describe+your+question)
 
