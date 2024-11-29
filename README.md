@@ -63,7 +63,7 @@ DirectionAI集成了一系列**DIRECT团队**的算法成果，实现了大模�
 🎈 [DIRECT Lab](https://github.com/DIRECT-BIT)
 
 # FAQ
-❓ [工程问题答疑]()
+❓ [工程问题答疑](https://github.com/DIRECT-BIT/DirectionAI/issues/new?assignees=&labels=&projects=&template=bug_report.md&title=)
 
 ❓ [算法问题答疑]()
 
